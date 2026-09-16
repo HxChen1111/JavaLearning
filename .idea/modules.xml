@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/02Variables/02Variables.iml" filepath="$PROJECT_DIR$/02Variables/02Variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03Primitive Types/03Primitive Types.iml" filepath="$PROJECT_DIR$/03Primitive Types/03Primitive Types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04Reference Types/04Reference Types.iml" filepath="$PROJECT_DIR$/04Reference Types/04Reference Types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaLearning.iml" filepath="$PROJECT_DIR$/JavaLearning.iml" />
+    </modules>
+  </component>
+</project>
