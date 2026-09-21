@@ -1,6 +1,6 @@
 package codewithChen;
 
-public class Variables02 {
+public class variables02 {
     public static void main(String[] args){
         int myAge = 19;
         int herAge = myAge;

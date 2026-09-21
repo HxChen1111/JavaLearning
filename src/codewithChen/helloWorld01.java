@@ -1,6 +1,6 @@
 package codewithChen; //包
 
-public class HelloWorld01 { //类
+public class helloWorld01 { //类
 
     public static void main(String[] args){
 
